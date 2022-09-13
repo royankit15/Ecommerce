@@ -1,0 +1,10 @@
+.Footer{
+    width: 100%;
+    height: 4rem;
+    background-color: skyblue;
+    color: white;
+  }
+  .text{
+      font-size: 2rem;
+      text-align: centre;
+  }
